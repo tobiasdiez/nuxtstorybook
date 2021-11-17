@@ -38,7 +38,7 @@
     "vue-loader": "^15.9.8"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -58,7 +58,7 @@
     "express": "^4.17.1",
     "mkdist": "^0.3.5",
     "node-sass": "^5.0.0",
-    "nuxt-edge": "^2.16.0-27270734.ab1c6cb4",
+    "nuxt-edge": "^2.16.0-27285136.ab1c6cb4",
     "react-docgen-typescript-plugin": "^1.0.0",
     "rimraf": "^3.0.2",
     "sass-loader": "^10.2.0",
